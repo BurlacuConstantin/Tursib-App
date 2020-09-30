@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="dark_gray">#454441</color>
+    <color name="mydark">#000000</color>
+    <color name="myred">#FF0000</color>
+    <color name="mywhite">#FFFFFF</color>
+    <color name="mygrey">#CECECE</color>
+    <color name="verde_palid">#006633</color>
+    <color name="alb_inchis_putin">#FDFDFD</color>
+    <color name="gri">#656565</color>
+</resources>

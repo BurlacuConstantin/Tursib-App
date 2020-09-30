@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="costy.tursib">
+
+    <application
+            android:label="@string/app_name"
+            android:icon="@mipmap/ic_launcher"
+            android:allowBackup="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:exported="true">
+        <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".Dus"
+            android:label="Tursib"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:exported="true">
+        </activity>
+
+        <activity android:name=".Intors"
+            android:label="Tursib"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:exported="true">
+        </activity>
+
+        <activity android:name=".Ore"
+            android:label="Tursib"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:exported="true">
+        </activity>
+
+        <activity android:name=".Ore2"
+            android:label="Tursib"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:exported="true">
+        </activity>
+
+        <activity android:name=".Utils"
+            android:label="Tursib"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:exported="true">
+        </activity>
+
+        <receiver android:name=".NotificationRecevicer" android:enabled="true" android:exported="true">
+            <intent-filter>
+                <action android:name="DA"/>
+                <action android:name="NU"/>
+            </intent-filter>
+        </receiver>
+
+    </application>
+
+</manifest>

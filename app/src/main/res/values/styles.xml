@@ -1,0 +1,1038 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <string-array name="Principale">
+              <item>Trasee Principale</item>
+    </string-array>
+
+    <string-array name="Secundare">
+              <item>Trasee Secundare</item>
+    </string-array>
+
+
+    <string-array name="Titles">
+        <item>Numarul 1</item>
+        <item>Numarul 2</item>
+        <item>Numarul 5</item>
+        <item>Numarul 10</item>
+        <item>Numarul 11</item>
+        <item>Numarul 12</item>
+        <item>Numarul 13</item>
+        <item>Numarul 14</item>
+        <item>Numarul 15</item>
+        <item>Numarul 16</item>
+        <item>Numarul 17</item>
+        <item>Numarul 18</item>
+        <item>Numarul 19</item>
+        <item>Numarul 22</item>
+        <item>Numarul 111</item>
+        <item>Numarul 112</item>
+        <item>Numarul 113</item>
+        <item>Numarul 114</item>
+        <item>Numarul 115</item>
+        <item>Numarul 116</item>
+        <item>Numarul 117</item>
+        <item>Numarul 118</item>
+    </string-array>
+
+    <string-array name="Description">
+        <item>Calea Dumbravii - Hornbach / Viile Sibiului</item>
+        <item>IMRES / Eurofoam / Scandia - Piata Cibin</item>
+        <item>Valea Aurie - Gara</item>
+
+        <item>Turnisor - SC Compa - Gusterita</item>
+        <item>Calea Cisnadiei - SC Continental</item>
+        <item>Piata Rahova - Sembraz</item>
+        <item>Gara - Dumbrava / Muzeul Astra</item>
+        <item>Valea Aurie - Hotel Libra / Resita</item>
+        <item>Valea Aurie - Gara</item>
+        <item>Valea Aurie - Cartierul Tineretului</item>
+        <item>Strand - Gara</item>
+        <item>Gara - Tiglari - Cartierul Tineretului</item>
+        <item>A. Saguna - Magnolia</item>
+
+        <item>Sibiu - Paltinis</item>
+        <item>Calea Dumbravii - Europa Unita</item>
+        <item>Zona Industriala Est - SC Continental</item>
+        <item>Valea Aurie - Europa Unita</item>
+        <item>Zona Industriala Est - Europa Unita</item>
+        <item>Hotel Libra - Europa Unita</item>
+        <item>Valea Aurie - SC Continetal</item>
+        <item>OBOR - SC Continental</item>
+        <item>Gusterita - SC Continental</item>
+    </string-array>
+
+    <string-array name="dus_position1">
+        <item>Calea Dumbravii I</item>
+        <item>Siretului I</item>
+        <item>Ciresica I</item>
+        <item>Calea Cisnadiei</item>
+        <item>Aleea Sevis</item>
+        <item>Piata Prahova I</item>
+        <item>Primavara</item>
+        <item>Piata Aurel Vlaicu I</item>
+        <item>CEC</item>
+        <item>A. Saguna</item>
+        <item>Mol</item>
+        <item>Kaufland I</item>
+        <item>Mondex</item>
+        <item>Scandia III</item>
+        <item>Piata Cibin I</item>
+        <item>Cibinului</item>
+        <item>Rusciorului II</item>
+        <item>Gaz Metan</item>
+        <item>Obor II</item>
+        <item>Opel II</item>
+        <item>Hornbach</item>
+        <item>Viile Sibiului V</item>
+        <item>Viile Sibiului III</item>
+        <item>Viile Sibiului I</item>
+    </string-array>
+
+    <string-array name="dus_position2">
+        <item>Scandia I</item>
+        <item>Podului I</item>
+        <item>Eurofoam</item>
+        <item>Greiner I</item>
+        <item>Retrasib I</item>
+        <item>Imres I</item>
+        <item>CGS</item>
+        <item>Stefan Cel Mare I</item>
+        <item>Piata Vasile Aaron I</item>
+        <item>Liceul Energetic</item>
+        <item>Moldoveanu</item>
+        <item>Politie</item>
+        <item>Teatru</item>
+        <item>Spitalul Judetean</item>
+        <item>Strada Lector</item>
+        <item>Gara</item>
+        <item>Abatorului</item>
+        <item>Liceul Independenta</item>
+        <item>Flaro</item>
+        <item>Piata Cibin III</item> <!-- 20 -->
+    </string-array>
+
+    <string-array name="dus_position3">
+        <item>Valea Aurie I</item>
+        <item>Theodor Mihaly I</item>
+        <item>Piata Sadu I</item>
+        <item>Piata Talmaciu I</item>
+        <item>Scoala Militara II</item>
+        <item>Scoala Militara I</item>
+        <item>Parcul Sub Arini</item>
+        <item>Bazin Olimpia</item>
+        <item>Casa Armatei</item>
+        <item>Teatru</item>
+        <item>Spitalul Judetean</item>
+        <item>Strada Lector</item>
+        <item>Gara</item> <!-- 13 -->
+    </string-array>
+
+    <string-array name="dus_position4">
+        <item>Zavoi I</item>
+        <item>Zavoi III</item>
+        <item>Stavilarului I</item>
+        <item>Asachi I</item>
+        <item>Piata Iancu de Hunedoara I</item>
+        <item>Scoala Generala NR.10 / 1</item>
+        <item>Bosch</item>
+        <item>Lidl</item>
+        <item>Penny</item>
+        <item>Alba Iulia</item>
+        <item>Casa Armatei</item>
+        <item>Teatru</item>
+        <item>Spitalul Judetean</item>
+        <item>Strada Lector</item>
+        <item>Strungului</item>
+        <item>Compa I</item>
+        <item>Compa II / I</item>
+        <item>Otelarilor</item>
+        <item>Calea Gusteritei II</item>
+        <item>Alecu Russo II</item>
+        <item>Resita</item>
+        <item>Pod Gusterita II</item>
+        <item>Alimentara Gusterita II</item>
+        <item>Smardan II</item>
+        <item>Viilor II</item>
+        <item>Cema II</item>
+        <item>Tabacarie II</item>
+        <item>Scandia I</item> <!-- 28 -->
+    </string-array>
+
+    <string-array name="dus_position5">
+        <item>Calea Cisnadiei</item>
+        <item>Aleea Sevis</item>
+        <item>Piata Rahova I</item>
+        <item>Cedonia</item>
+        <item>Luptei</item>
+        <item>Moldoveanu</item>
+        <item>Politie</item>
+        <item>A. Saguna</item>
+        <item>Mol</item>
+        <item>Kaufland I</item>
+        <item>Mc Donald</item>
+        <item>Turnisor</item>
+        <item>Ambient I</item>
+        <item>Simpa II</item>
+        <item>Vama II</item>
+        <item>Aeroport II</item>
+        <item>Bricomat</item>
+        <item>Rar</item>
+        <item>Snr Rulmenti</item>
+        <item>SC Continental</item> <!-- 20 -->
+    </string-array>
+
+    <string-array name="dus_position6">
+        <item>Piata Rahova III</item>
+        <item>Primavara</item>
+        <item>Piata Aurel Vlaicu I</item>
+        <item>Cec</item>
+        <item>Teatru</item>
+        <item>Spitalul Judetean</item>
+        <item>Strada Lector</item>
+        <item>Strungului</item>
+        <item>Compa I</item>
+        <item>Compa II / I</item>
+        <item>Sembraz</item> <!-- 11 -->
+    </string-array>
+
+    <string-array name="dus_position7">
+        <item>Gara</item>
+        <item>Parcul Tineretului</item>
+        <item>Muzeul de Stiinte Naturale</item>
+        <item>Nufarul</item>
+        <item>Lomonosov</item>
+        <item>Lamaitei</item>
+        <item>Aron Pumnul</item>
+        <item>Ciresica II</item>
+        <item>Siretului II</item>
+        <item>Calea Dumbravii II</item>
+        <item>Cimitirul Eroilor II</item>
+        <item>Dumbrava II</item>
+        <item>Muzeul Astra</item> <!-- 12 -->
+    </string-array>
+
+    <string-array name="dus_position8">
+        <item>Valea Aurie II</item>
+        <item>Cimitirul Eroilor I</item>
+        <item>Calea Dumbravii I</item>
+        <item>Tursib I</item>
+        <item>Dima II</item>
+        <item>Calea Cisnadiei</item>
+        <item>Aleea Sevis</item>
+        <item>Piata Rahova I</item>
+        <item>Vasile Milea I</item>
+        <item>Narcisa</item>
+        <item>Piata Vasile Aaron II</item>
+        <item>Comtram II</item>
+        <item>Concefa</item>
+        <item>Compa II / II</item>
+        <item>Otelarilor</item>
+        <item>Libra I</item> <!-- 15 -->
+        <item>Calea Gusteritei II</item>
+        <item>Alecu Russo II</item>
+        <item>Resita</item>
+    </string-array>
+
+    <string-array name="dus_position9">
+        <item>Valea Aurie I</item>
+        <item>Theodor Mihaly I</item>
+        <item>Piata Sadu I</item>
+        <item>Piata Talmaciu I</item>
+        <item>Scoala Militară II</item>
+        <item>Scoala Generală Nr.16 / I</item>
+        <item>Dima II</item>
+        <item>Calea Cisnadiei</item>
+        <item>Aleea Sevis</item>
+        <item>Piata Rahova I</item>
+        <item>Vasile Milea I</item>
+        <item>Mobexpert</item>
+        <item>Shopping City</item>
+        <item>XXL</item>
+        <item>Narcisa</item>
+        <item>Piata Vasile Aaron II</item>
+        <item>Viaduct V.Aaron II</item>
+        <item>Ceferistilor II</item>
+        <item>Trei Stejari II</item>
+        <item>Hermann Oberth</item>
+        <item>Strada Lector</item>
+        <item>Gara</item> <!-- 22 -->
+    </string-array>
+
+    <string-array name="dus_position10">
+        <item>Valea Aurie I</item>
+        <item>Theodor Mihaly I</item>
+        <item>Piata Sadu I</item>
+        <item>Piata Talmaciu I</item>
+        <item>Scoala Militara II</item>
+        <item>Hategului</item>
+        <item>Biserica Strand</item>
+        <item>Kaufland II</item>
+        <item>Mondex</item>
+        <item>Scandia III</item>
+        <item>Piata Cibin I</item>
+        <item>Cibinului</item>
+        <item>Rusciorului II</item>
+        <item>Gaz Metan</item>
+        <item>Terezian</item>
+        <item>Alimentara Tiglari II</item>
+        <item>Bariera Tiglari II</item>
+        <item>Piata Tiglari II</item>
+        <item>Klagenfurt</item>
+        <item>Lisabona II</item>
+        <item>Londra</item> <!-- 20 -->
+    </string-array>
+
+    <string-array name="dus_position11">
+        <item>Strand</item>
+        <item>Maramuresului</item>
+        <item>Barsei</item>
+        <item>Moldovei I</item>
+        <item>Casa Armatei</item>
+        <item>Teatru</item>
+        <item>Spitalul Judetean</item>
+        <item>Strada Lector</item>
+        <item>Gara</item> <!-- 9 -->
+    </string-array>
+
+    <string-array name="dus_position12">
+        <item>Gara</item>
+        <item>Brd</item>
+        <item>Abatorului</item>
+        <item>Rusciorului II</item>
+        <item>Gaz Metan</item>
+        <item>Terezian</item>
+        <item>Piata Cibin II</item>
+        <item>Kogalniceanu II</item>
+        <item>Piata Cluj II</item>
+        <item>Paris II</item>
+        <item>Campului II</item>
+        <item>Alimentara Tiglari II</item>
+        <item>Bariera Tiglari II</item>
+        <item>Piata Tiglari II</item>
+        <item>Klangenfurt</item>
+        <item>Lisabona II</item>
+        <item>Londra</item> <!-- 17 -->
+    </string-array>
+
+    <string-array name="dus_position13">
+        <item>Mangolia</item>
+        <item>Frigoriferului I</item>
+        <item>Transcom I</item>
+        <item>Frunzei I</item>
+        <item>Bosch</item>
+        <item>Lidl</item>
+        <item>Penny</item>
+        <item>Alba Iulia</item>
+        <item>Casa Armatei</item>
+        <item>A. Saguna</item> <!-- 10 -->
+    </string-array>
+
+    <string-array name="dus_position14">
+        <item>Gara</item>
+    </string-array>
+
+    <string-array name="dus_position15">
+        <item>Calea Dumbravii I</item>
+        <item>Siretului I</item>
+        <item>Ciresica I</item>
+        <item>Calea Cisnadiei</item>
+        <item>Aleea Sevis</item>
+        <item>Piata Rahova I</item>
+        <item>Primavara</item>
+        <item>Piata Aurel Vlaicu I</item>
+        <item>Cec</item>
+        <item>A. Saguna</item>
+        <item>Mol</item>
+        <item>Kaufland I</item>
+        <item>Mc Donald</item>
+        <item>Turnisor</item>
+        <item>Ambient I</item>
+        <item>Brandl II</item>
+        <item>Ambient III</item>
+        <item>Turda II</item>
+        <item>Takata</item>
+        <item>Pheonix M.P  II</item>
+        <item>Aeronamic</item>
+        <item>Barcelona</item>
+        <item>Harting II</item>
+        <item>Marquardt</item> <!-- 24 -->
+    </string-array>
+
+    <string-array name="dus_position16">
+        <item>Imres I</item>
+        <item>CGS</item>
+        <item>Stefan Cel Mare I</item>
+        <item>Piata Vasile Aaron I</item>
+        <item>Liceul Energetic</item>
+        <item>Moldoveanu</item>
+        <item>Politie</item>
+        <item>A. Saguna</item>
+        <item>Mol</item>
+        <item>Kaufland I</item>
+        <item>Mc Donald</item>
+        <item>Turnisor</item>
+        <item>Ambient I</item>
+        <item>Simpa II</item>
+        <item>Vama II</item>
+        <item>Aeroport II</item>
+        <item>Bricomat</item>
+        <item>Rar</item>
+        <item>Snr Rulmenti</item>
+        <item>SC Continental</item> <!-- 19 -->
+    </string-array>
+
+    <string-array name="dus_position17">
+        <item>Valea Aurie I</item>
+        <item>Theodor Mihaly I</item>
+        <item>Piata Sadu I</item>
+        <item>Piata Talmaciu I</item>
+        <item>Scoala Militara II</item>
+        <item>Hategului</item>
+        <item>Biserica Strand</item>
+        <item>Mc Donald</item>
+        <item>Turnisor</item>
+        <item>Ambient I</item>
+        <item>Brandl II</item>
+        <item>Ambient III</item>
+        <item>Turda II</item>
+        <item>Takata</item>
+        <item>Phoenix M.P II</item>
+        <item>Aeronamic</item>
+        <item>Barcelona</item>
+        <item>Harting II</item>
+        <item>Marquardt</item> <!-- 19 -->
+    </string-array>
+
+    <string-array name="dus_position18">
+        <item>Imres I</item>
+        <item>CGS</item>
+        <item>Stefan Cel Mare I</item>
+        <item>Piata Vasile Aaron I</item>
+        <item>Liceul Energetic</item>
+        <item>Moldoveanu</item>
+        <item>Politie</item>
+        <item>A. Saguna</item>
+        <item>Mol</item>
+        <item>Kaufland I</item>
+        <item>Mc Donald</item>
+        <item>Turnisor</item>
+        <item>Ambient I</item>
+        <item>Brandl II</item>
+        <item>Ambient III</item>
+        <item>Turda II</item>
+        <item>Takata</item>
+        <item>Phoenix M.P II</item>
+        <item>Aeronamic</item>
+        <item>Barcelona</item>
+        <item>Harting II</item>
+        <item>Marquardt</item> <!-- 22 -->
+    </string-array>
+
+    <string-array name="dus_position19">
+        <item>Cema II</item>
+        <item>Viilor I</item>
+        <item>Smardan I</item>
+        <item>Alimentara Gusterita I</item>
+        <item>Pod Gusterita I</item>
+        <item>Alecu Russo I</item>
+        <item>Calea Gusteritei I</item>
+        <item>Libra II</item>
+        <item>Treboniu Laurean</item>
+        <item>Electrica</item>
+        <item>Abatorului</item>
+        <item>Rusciorului II</item>
+        <item>Gaz Metan</item>
+        <item>Terezian</item>
+        <item>Gladiolelor</item>
+        <item>Flaro</item>
+        <item>Piata Cibin II</item>
+        <item>Metalurgistilor</item>
+        <item>Distributiei</item>
+        <item>DPC</item>
+        <item>Autogara II</item>
+        <item>Mc Donald</item>
+        <item>Turnisor</item>
+        <item>Ambient I</item>
+        <item>Brandl II</item>
+        <item>Ambient III</item>
+        <item>Turda II</item>
+        <item>Takata</item>
+        <item>Phoenix M.P II</item>
+        <item>Aeronamic</item>
+        <item>Barcelona</item>
+        <item>Harting II</item>
+        <item>Marquardt</item> <!-- 33 -->
+    </string-array>
+
+    <string-array name="dus_position20">
+        <item>Valea Aurie I</item>
+        <item>Theodor Mihaly I</item>
+        <item>Piata Sadu I</item>
+        <item>Piata Talmaciu I</item>
+        <item>Scoala Militara II</item>
+        <item>Hategului</item>
+        <item>Biserica Strand</item>
+        <item>Mc Donald</item>
+        <item>Turnisor</item>
+        <item>Ambient I</item>
+        <item>Simpa II</item>
+        <item>Vama II</item>
+        <item>Aeroport II</item>
+        <item>Bricomat</item>
+        <item>Rar</item>
+        <item>Snr Rulmenti</item>
+        <item>SC Continental</item> <!-- 17 -->
+    </string-array>
+
+    <string-array name="dus_position21">
+        <item>Obor I</item>
+        <item>Terezian</item>
+        <item>Gladiolelor</item>
+        <item>Flaro</item>
+        <item>Piata Cibin II</item>
+        <item>Metalurgistilor</item>
+        <item>Distributiei</item>
+        <item>DPC</item>
+        <item>Autogarii</item>
+        <item>Mc Donald</item>
+        <item>Turnisor</item>
+        <item>Ambient I</item>
+        <item>Simpa II</item>
+        <item>Vama II</item>
+        <item>Aeroport II</item>
+        <item>Bricomat</item>
+        <item>Rar</item>
+        <item>Snr Rulmenti</item>
+        <item>SC Continental</item> <!-- 19 -->
+    </string-array>
+
+    <string-array name="dus_position22">
+        <item>Cema II</item>
+        <item>Viilor I</item>
+        <item>Smardan I</item>
+        <item>Alimentara Gusterita I</item>
+        <item>Pod Gusterita I</item>
+        <item>Alecu Russo I</item>
+        <item>Calea Gusteritei I</item>
+        <item>Treboniu Laurean</item>
+        <item>Electrica</item>
+        <item>Parcul Tineretului</item>
+        <item>Muzeul de Stiinte Naturale</item>
+        <item>Nufarul</item>
+        <item>A. Saguna</item>
+        <item>Mol</item>
+        <item>Kaufland I</item>
+        <item>Mc Donald</item>
+        <item>Turnisor</item>
+        <item>Ambient I</item>
+        <item>Simpa II</item>
+        <item>Vama II</item>
+        <item>Aeroport II</item>
+        <item>Bricomat</item>
+        <item>Rar</item>
+        <item>Snr Rulmenti</item>
+        <item>SC Continental</item> <!-- 25 -->
+    </string-array>
+
+    <string-array name="intors_position1">
+        <item>Viile Sibiului I</item>
+        <item>Viile Sibiului II</item>
+        <item>Viile Sibiului IV</item>
+        <item>Hornbach</item>
+        <item>Opel I</item>
+        <item>Obor I</item>
+        <item>Terezian</item>
+        <item>Gladiolelor</item>
+        <item>Flaro</item>
+        <item>Piata Cibin II</item>
+        <item>Metalurgistilor</item>
+        <item>Distributiei</item>
+        <item>DPC</item>
+        <item>Autogarii</item>
+        <item>Penny</item>
+        <item>Alba Iulia</item>
+        <item>Casa Armatei</item>
+        <item>Lomonsov</item>
+        <item>Bloc I</item>
+        <item>Bloc 9 Mihai Viteazu</item>
+        <item>Nicolae Iorga</item>
+        <item>Aron Pumnul</item>
+        <item>Ciresica II</item>
+        <item>Siretului II</item>
+        <item>Calea Dumbravii I</item>
+    </string-array>
+
+    <string-array name="intors_position2">
+        <item>Piata Cibin III</item>
+        <item>Strada Lunga</item>
+        <item>Rusciorului I</item>
+        <item>Targu Fanului</item>
+        <item>Apollo</item>
+        <item>BRD</item>
+        <item>Parcul Tineretului</item>
+        <item>Muzeul de Stiinte Naturale</item>
+        <item>Nufarul</item>
+        <item>Aida</item>
+        <item>Miraslau</item>
+        <item>Peco Milea</item>
+        <item>Narcisa</item>
+        <item>Piata Vasile Aaron II</item>
+        <item>Stefan Cel Mare II</item>
+        <item>Stefan Cel Mare III</item>
+        <item>IRMES II</item>
+        <item>Retrasib II</item>
+        <item>Greiner II</item>
+        <item>Eurofoam</item>
+        <item>Podului III</item>
+        <item>Scandia II</item>
+        <item>Tabacarie II</item>
+    </string-array>
+
+    <string-array name="intors_position3">
+        <item>Gara</item>
+        <item>Parcul Tineretului</item>
+        <item>Muzeul de Stiinte Naturale</item>
+        <item>Nufarul</item>
+        <item>A. Saguna</item>
+        <item>Transilvaniei</item>
+        <item>Billa</item>
+        <item>Spitalul Militar</item>
+        <item>Bulevardul Victoriei</item>
+        <item>Calea Poplacii</item>
+        <item>Piata Talmaciu II</item>
+        <item>Piata Sadu II</item>
+        <item>Theodor Mihaly II</item>
+        <item>Valea Aurie I</item>
+    </string-array>
+
+    <string-array name="intors_position4">
+        <item>Scandia II</item>
+        <item>Tabacarie II</item>
+        <item>Cema II</item>
+        <item>Viilor I</item>
+        <item>Smardan I</item>
+        <item>Alimentara Gusterita I</item>
+        <item>Pod Gusterita I</item>
+        <item>Resita</item>
+        <item>Alecu Russo I</item>
+        <item>Calea Gusteritei I</item>
+        <item>Strungului</item>
+        <item>Compa I</item>
+        <item>Compa II / I</item>
+        <item>Otelarilor</item>
+        <item>Libra I</item>
+        <item>Treboniu Laurean</item>
+        <item>Electrica</item>
+        <item>Parcul Tineretului</item>
+        <item>Muzeul de Stiinte Naturale</item>
+        <item>Nufarul</item>
+        <item>A. Saguna</item>
+        <item>Mol</item>
+        <item>Kaufland I</item>
+        <item>Mc Donald</item>
+        <item>Bieltz</item>
+        <item>Scoala Generala Nr.10 / II</item>
+        <item>Piata Iancu de Hunedoara II</item>
+        <item>Asachi II</item>
+        <item>Stavilarului II</item>
+        <item>Zavoi II</item>
+        <item>Zavoi I</item>
+    </string-array>
+
+    <string-array name="intors_position5">
+        <item>Sc Continental</item>
+        <item>Harting I</item>
+        <item>Biomin</item>
+        <item>Phoenix M.P I</item>
+        <item>Aeroport I</item>
+        <item>Vama</item>
+        <item>Simpa I</item>
+        <item>Metro</item>
+        <item>Bosch</item>
+        <item>Lidl</item>
+        <item>Penny</item>
+        <item>Alba Iulia</item>
+        <item>Casa Armatei</item>
+        <item>Aida</item>
+        <item>Miraslau</item>
+        <item>Peco Milea</item>
+        <item>Vasile Milea II</item>
+        <item>Piata Rahova II</item>
+        <item>Mihai Viteazu</item>
+        <item>Nicolae Iorga</item>
+        <item>Aron Pumnul</item>
+        <item>Ciresica II</item>
+        <item>Siretului II</item>
+    </string-array>
+
+    <string-array name="intors_position6">
+        <item>Sembraz</item>
+        <item>Compa II / II</item>
+        <item>Otelarilor</item>
+        <item>Libra I</item>
+        <item>Treboniu Laurean</item>
+        <item>Electrica</item>
+        <item>Parcul Tineretului</item>
+        <item>Muzeul de Stiinte Naturale</item>
+        <item>Nufarul</item>
+        <item>Lomonosov</item>
+        <item>Bloc I</item>
+        <item>Bloc 9 Mihai Viteazu</item>
+        <item>Piata Rahova III</item>
+    </string-array>
+
+    <string-array name="intors_position7">
+        <item>Muzeul Astra</item>
+        <item>Dumbrava I</item>
+        <item>Cimitirul Eroilor I</item>
+        <item>Calea Dumbravii I</item>
+        <item>Tursib I</item>
+        <item>Dima I</item>
+        <item>Anton Pann</item>
+        <item>Piata Aurel Vlaicu I</item>
+        <item>CEC</item>
+        <item>Teatru</item>
+        <item>Spitalul Judetean</item>
+        <item>Strada Lector</item>
+        <item>Gara</item>
+    </string-array>
+
+    <string-array name="intors_position8">
+        <item>Resita</item>
+        <item>Alecu Russo I</item>
+        <item>Calea Gusteritei I</item>
+        <item>Libra I</item>
+        <item>Strungului</item>
+        <item>Compa I</item>
+        <item>Compa II / I</item>
+        <item>Sembraz</item>
+        <item>Comtram I</item>
+        <item>Piata Vasile Aaron I</item>
+        <item>Liceul Energetic</item>
+        <item>Vasile Milea II</item>
+        <item>Piata Rahova II</item>
+        <item>Mihai Viteazu</item>
+        <item>Nicolae Iorga</item>
+        <item>Aron Pumnul</item>
+        <item>Ciresica II</item>
+        <item>Siretului II</item>
+        <item>Calea Dumbravii II</item>
+        <item>Cimitirul Eroilor II</item>
+        <item>Valea Aurie II</item> <!-- 18 inital , s-au adaugat inca 3 ( 21 ) statii aditionale  -->
+    </string-array>
+    
+    <string-array name="intors_position9">
+        <item>Gara</item>
+        <item>Constitutiei</item>
+        <item>Policlinica Stomatologica</item>
+        <item>Trei Stejari I</item>
+        <item>Ceferistilor I</item>
+        <item>Viaduct Vasile Aaron</item>
+        <item>Piata Vasile Aaron I</item>
+        <item>Liceul Energetic</item>
+        <item>Mobexpert</item>
+        <item>Shopping City</item>
+        <item>XXL</item>
+        <item>Vasile Milea II</item>
+        <item>Piata Rahova II</item>
+        <item>Primavara</item>
+        <item>Sala Transilvania</item>
+        <item>Alexandru Vlahuta</item>
+        <item>Calea Poplacii</item>
+        <item>Piata Talmaciu II</item>
+        <item>Piata Sadu II</item>
+        <item>Theodor Mihaly II</item>
+        <item>Valea Aurie I</item>
+    </string-array>
+
+    <string-array name="intors_position10">
+        <item>Londra</item>
+        <item>Lisabona I</item>
+        <item>Landshut</item>
+        <item>Piata Tiglari I</item>
+        <item>Bariera Tiglari I</item>
+        <item>Alimentara Tiglari I</item>
+        <item>Strada Lunga</item>
+        <item>Gladiolelor</item>
+        <item>Flaro</item>
+        <item>Piata Cibin II</item>
+        <item>Metalurgistilor</item>
+        <item>Distributiei</item>
+        <item>DPC</item>
+        <item>Autogara II</item>
+        <item>Maramuresului</item>
+        <item>Barsei</item>
+        <item>Calea Poplacii</item>
+        <item>Piata Talmaciu II</item>
+        <item>Piata Sadu II</item>
+        <item>Theodor Mihaly II</item>
+        <item>Valea Aurie I</item>
+    </string-array>
+
+    <string-array name="intors_position11">
+        <item>Gara</item>
+        <item>Parcul Tineretului</item>
+        <item>Muzeul de Stiinte Naturale</item>
+        <item>Nufarul</item>
+        <item>A. Saguna</item>
+        <item>Transilvaniei</item>
+        <item>Moldovei II</item>
+        <item>Hategului</item>
+        <item>Biserica Strand</item>
+        <item>Strand</item>
+    </string-array>
+
+    <string-array name="intors_position12">
+        <item>Londra</item>
+        <item>Lisabona I</item>
+        <item>Landshut</item>
+        <item>Piata Tiglari I</item>
+        <item>Bariera Tiglari I</item>
+        <item>Alimentara Tiglari I</item>
+        <item>Campului I</item>
+        <item>Paris I</item>
+        <item>Piata Cluj I</item>
+        <item>Kiev</item>
+        <item>Kogalniceanu I</item>
+        <item>Parcul Reconstructiei</item>
+        <item>Strada Lunga</item>
+        <item>Rusciorului I</item>
+        <item>Targu Fanului</item>
+        <item>Apollo</item>
+        <item>Constitutiei</item>
+        <item>Strada Lector</item>
+        <item>Strungului</item>
+        <item>Compa I</item>
+        <item>Compa II / I</item>
+        <item>Otelarilor</item>
+        <item>Treboniu Laurean</item>
+        <item>Gara</item>
+    </string-array>
+
+    <string-array name="intors_position13">
+        <item>A. Saguna</item>
+        <item>Mol</item>
+        <item>Kaufland I</item>
+        <item>Mc Donald</item>
+        <item>Turnisor</item>
+        <item>Frunzei II</item>
+        <item>Transcom II</item>
+        <item>Frigoriferului II</item>
+        <item>Mangolia</item>
+    </string-array>
+    
+    <string-array name="intors_position14">
+        <item>Paltinis</item>
+    </string-array>
+
+    <string-array name="intors_position15">
+        <item>Marquardt</item>
+        <item>Atlanta</item>
+        <item>Aeronamic</item>
+        <item>Barcelona</item>
+        <item>Harting I</item>
+        <item>Biomin</item>
+        <item>Pheonix M.P  I</item>
+        <item>Siemens</item>
+        <item>Turda I</item>
+        <item>Ambient II</item>
+        <item>Brandl I</item>
+        <item>Bosch</item>
+        <item>Lidl</item>
+        <item>Penny</item>
+        <item>Alba Iulia</item>
+        <item>Casa Armatei</item>
+        <item>Lomonosov</item>
+        <item>Bloc I</item>
+        <item>Bloc 9 Mihai Viteazu</item>
+        <item>Nicolae Iorga</item>
+        <item>Aron Pumnul</item>
+        <item>Ciresica II</item>
+        <item>Siretului II</item>
+        <item>Calea Dumbravii I</item>
+    </string-array>
+
+    <string-array name="intors_position16">
+        <item>Sc Continental</item>
+        <item>Harting I</item>
+        <item>Biomin</item>
+        <item>Pheonix M.P. I</item>
+        <item>Aeroport I</item>
+        <item>Vama</item>
+        <item>Simpa I</item>
+        <item>Metro</item>
+        <item>Bosch</item>
+        <item>Lidl</item>
+        <item>Penny</item>
+        <item>Alba Iulia</item>
+        <item>Casa Armatei</item>
+        <item>Aida</item>
+        <item>Miraslau</item>
+        <item>Peco Milea</item>
+        <item>Narcisa</item>
+        <item>Piata Vasile Aaron II</item>
+        <item>Stefan Cel Mare II</item>
+        <item>Stefan Cel Mare III</item>
+        <item>IMES II</item>
+    </string-array>
+
+    <string-array name="intors_position17">
+        <item>Marquardt</item>
+        <item>Atlanta</item>
+        <item>Aeronamic</item>
+        <item>Barcelona</item>
+        <item>Harting I</item>
+        <item>Biomin</item>
+        <item>Pheonix M.P  I</item>
+        <item>Siemens</item>
+        <item>Turda I</item>
+        <item>Ambient II</item>
+        <item>Brandl I</item>
+        <item>Bosch</item>
+        <item>Lidl</item>
+        <item>Maramuresului</item>
+        <item>Barsei</item>
+        <item>Calea Poplacii</item>
+        <item>Piata Talmaciu II</item>
+        <item>Piata Sadu II</item>
+        <item>Theodor Mihaly II</item>
+        <item>Valea Aurie I</item>
+    </string-array>
+
+    <string-array name="intors_position18">
+        <item>Marquardt</item>
+        <item>Atlanta</item>
+        <item>Aeronamic</item>
+        <item>Barcelona</item>
+        <item>Harting I</item>
+        <item>Biomin</item>
+        <item>Pheonix M.P  I</item>
+        <item>Siemens</item>
+        <item>Turda I</item>
+        <item>Ambient II</item>
+        <item>Brandl I</item>
+        <item>Bosch</item>
+        <item>Lidl</item>
+        <item>Penny</item>
+        <item>Alba Iulia</item>
+        <item>Casa Armatei</item>
+        <item>Aida</item>
+        <item>Miraslau</item>
+        <item>Peco Milea</item>
+        <item>Narcisa</item>
+        <item>Piata Vasile Aaron II</item>
+        <item>Stefan Cel Mare II</item>
+        <item>Stefan Cel Mare III</item>
+        <item>IRMES II</item>
+    </string-array>
+
+    <string-array name="intors_position19">
+        <item>Marquardt</item>
+        <item>Atlanta</item>
+        <item>Aeronamic</item>
+        <item>Barcelona</item>
+        <item>Harting I</item>
+        <item>Biomin</item>
+        <item>Pheonix M.P  I</item>
+        <item>Siemens</item>
+        <item>Turda I</item>
+        <item>Ambient II</item>
+        <item>Brandl I</item>
+        <item>Bosch</item>
+        <item>Kaufland II</item>
+        <item>Mondex</item>
+        <item>Scandia III</item>
+        <item>Piata Cibin I</item>
+        <item>Cibinului</item>
+        <item>Libertatea</item>
+        <item>Apollo</item>
+        <item>BRD</item>
+        <item>Strada Lector</item>
+        <item>Libra II</item>
+        <item>Strungului</item>
+        <item>Compa I</item>
+        <item>Compa II / I</item>
+        <item>Otelarilor</item>
+        <item>Calea Gusteritei II</item>
+        <item>Alecu Russo II</item>
+        <item>Pod Gusterita II</item>
+        <item>Alimentara Gusterita II</item>
+        <item>Smardan II</item>
+        <item>Viilor II</item>
+        <item>Cema II</item>
+    </string-array>
+
+    <string-array name="intors_position20">
+        <item>SC Continental</item>
+        <item>Harting I</item>
+        <item>Biomin</item>
+        <item>Pheonix M.P. I</item>
+        <item>Aeroport I</item>
+        <item>Vama</item>
+        <item>Simpa I</item>
+        <item>Metro</item>
+        <item>Bosch</item>
+        <item>Lidl</item>
+        <item>Maramuresului</item>
+        <item>Barsei</item>
+        <item>Calea Poplacii</item>
+        <item>Piata Talmaciu II</item>
+        <item>Piata Sadu II</item>
+        <item>Theodor Mihaly II</item>
+        <item>Valea Aurie I</item>
+    </string-array>
+
+    <string-array name="intors_position21">
+        <item>SC Continental</item>
+        <item>Harting I</item>
+        <item>Biomin</item>
+        <item>Pheonix M.P. I</item>
+        <item>Aeroport I</item>
+        <item>Vama</item>
+        <item>Simpa I</item>
+        <item>Metro</item>
+        <item>Bosch</item>
+        <item>Kaufland II</item>
+        <item>Mondex</item>
+        <item>Scandia III</item>
+        <item>Piata Cibin I</item>
+        <item>Cibinului</item>
+        <item>Rusciorului II</item>
+        <item>Gaz Metan</item>
+        <item>Obor II</item>
+    </string-array>
+
+    <string-array name="intors_position22">
+        <item>SC Continental</item>
+        <item>Harting I</item>
+        <item>Biomin</item>
+        <item>Pheonix M.P I</item>
+        <item>Aeroport I</item>
+        <item>Vama</item>
+        <item>Simpa I</item>
+        <item>Metro</item>
+        <item>Bosch</item>
+        <item>Lidl</item>
+        <item>Penny</item>
+        <item>Alba Iulia</item>
+        <item>Casa Armatei</item>
+        <item>Teatru</item>
+        <item>Spitalul Judetean</item>
+        <item>Strada Lector</item>
+        <item>Calea Gusteritei II</item>
+        <item>Alecu Russo II</item>
+        <item>Pod Gusterita II</item>
+        <item>Alimentara Gusterita II</item>
+        <item>Smardan II</item>
+        <item>Viilor II</item>
+        <item>Cema II</item>
+    </string-array>
+</resources>
